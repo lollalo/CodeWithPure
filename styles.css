@@ -1,2 +1,32 @@
-
-/* This file is where your CSS goes. When you start adding CSS, feel free to delete this comment */
+header {
+  text-align: center;
+  padding: 10px;
+  background-color: pink;
+}
+.tagline {
+  font-size: 18px;
+}
+h1  {
+  font-size: 70px;
+font-family: 'Lobster Two', cursive;
+}
+h2 {
+  font-size: 40px;
+}
+p, h1, h2{
+  letter-spacing: 0;
+  display: block;
+}
+.img-left {
+  float: left;
+}
+.img-right {
+  float: right;
+}
+.text-center-middle {
+  margin-top:  90px;
+  margin-left:  50px;
+  margin-right: 50px;
+  margin-bottom: 80px;
+  text-align: center;
+}
